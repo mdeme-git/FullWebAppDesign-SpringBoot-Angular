@@ -1,5 +1,5 @@
 # Full stack project template  
-This is a basic full stack project.  
+This is a full stack project template.  
 The backend is implemented in the folder `./basic-springBoot-Angular/tuto-springBoot`.  
 The frontend is implemented in the folder `./basic-springBoot-Angular/angularclient`.
 
